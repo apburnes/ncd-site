@@ -149,13 +149,14 @@ DEPENDENCIES
   autoprefixer-rails
   execjs (= 2.7.0)
   html-proofer (~> 3.19)
-  jekyll (~> 4.3.2)
+  jekyll (~> 4.0)
   jekyll-assets!
   jekyll-feed (~> 0.15)
   jekyll-paginate-v2!
   jekyll-redirect-from
   jekyll-seo-tag
   jekyll-sitemap
+  tzinfo-data
 
 RUBY VERSION
    ruby 2.7.6p219
